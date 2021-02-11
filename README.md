@@ -18,7 +18,7 @@ Also, search history needs to be saved and user can see the search history on th
 - must use the latest Xcode 11+, Swift 5+, iOS 12+, don't use SwiftUI
 - navigation between screens
 - albums have to be sorted alphabetically
-- API description: https://affiliate.itunes.apple.com/resources/documentation/itunes-store- web-service-search-api/
+- API description: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
 
 ## Technologies used
