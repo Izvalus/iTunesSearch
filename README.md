@@ -29,3 +29,4 @@ Also, search history needs to be saved and user can see the search history on th
 - URLSession, JSONDecoder
 - AutoLayout
 - Without Storyboard
+- Kingfisher
